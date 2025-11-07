@@ -49,10 +49,4 @@ My toolkit, honed over 13+ years, powers mobile, AI, backend, and automation sol
 - [Portfolio](https://vignaraj.dev) – Explore My Projects
 - [Medium](https://medium.com/@vignarajj) – Tech Thoughts & Tutorials
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vignarajj&style=flat-square&color=brightgreen" alt="Profile Views" />
-  <sub>Thanks for visiting! Let's connect to build something extraordinary. 🚀</sub>
-</div>
-
 ---
-*Powered by innovation. Last updated: November 2025.*
